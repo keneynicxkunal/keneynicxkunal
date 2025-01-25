@@ -3,6 +3,10 @@
 <h3 align="center">A passionate full stack developer from India, Where passion meets precision—coding the future, one project at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/nggh6g5m6ifd1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keneynicxkunal&label=Profile%20views&color=0e75b6&style=flat" alt="keneynicxkunal" /> </p>
+<p1 align="left"> 🌱 I’m passionate about cyber security<br></p1>
+<p2 align="left">👯 I’m looking to collaborate on Development Projects<br></p2>
+<p3 align="left">💬 Ask me about Coding Stuff<br></p3>
+<p4 align="left">📫 How to reach me <a href="kunalk9521@gamil.com">@kunal kumar</a><br></p4>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
