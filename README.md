@@ -1,7 +1,7 @@
 [![MasterHead]    (https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)]
 <h1 align="center">Hi 👋, I'm kunal kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
+<h3 align="center">A passionate full stack developer from India, Where passion meets precision—coding the future, one project at a time.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.redd.it/nggh6g5m6ifd1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keneynicxkunal&label=Profile%20views&color=0e75b6&style=flat" alt="keneynicxkunal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
